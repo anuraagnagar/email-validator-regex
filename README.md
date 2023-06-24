@@ -5,18 +5,18 @@
 ### 1. Clone the project
 
 ```bash
-  git clone https://github.com/anuraagnagar/email-validator-regex.git
+git clone https://github.com/anuraagnagar/email-validator-regex.git
 ```
 
 ### 2. Go to the project directory
 
 ```bash
-  cd email-validator-regex
+cd email-validator-regex
 ```
 
 ### 3. Start the server
 
 ```bash
-  python main.py
+python main.py
 ```
 
