@@ -10,7 +10,7 @@ x############################x
 
 _required = """
 ------------------------------
-|X  PLEASE ENTER SOMETHING! X|
+|>  PLEASE ENTER SOMETHING! <|
 ------------------------------
 """
 
